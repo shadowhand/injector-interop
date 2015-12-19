@@ -1,0 +1,11 @@
+{
+    "name": "container-interop/injector-interop",
+    "type": "library",
+    "description": "Promoting the interoperability of dependency injectors",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Interop\\Injector\\": "src/"
+        }
+    }
+}
